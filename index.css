@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: beige;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.navLink {
+    display: inline-block;
+    color: #0A293D;
+    padding: 12px;
+    margin: 0 32px;
+    font-size: 28px;
+}
+
+.left {
+    background-color: bisque;
+    float: left;
+    width: 29%;
+    height: 600px;
+}
+
+.right {
+    background-color: rgb(157, 203, 214);
+    float: right;
+    width: 70%;
+    height: 600px;
+}
+
+.profile {
+    width: 100%;
+}
+
+.profilePhoto {
+    display: block;
+    width: 50%;
+    margin: 32px auto 12px;
+    background-color: brown;
+}
+
+.content {
+    height: 700px;
+    padding: 32px 80px;
+    width: 70%;
+}
+
+.name {
+    text-align: center;
+}
+
+.stats {
+    padding: 20px;
+}
+
+#rightImage {
+    width: 300px;
+    margin: 18px 32px 32px 0;
+    float: left;
+}
+
+.galleryImage {
+    width: 250px;
+}
+
+#id {
+    margin: 0;
+}
